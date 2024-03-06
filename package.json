@@ -11,7 +11,8 @@
     "url": "https://github.com/88n77/tea-88n77.git"
   },
   "dependencies": {
-    "minti_fulkerson": "0.1.4"
+    "minti_fulkerson": "0.1.4",
+    "tea2-88n77": "^1.0.0"
   },
   "author": "",
   "license": "ISC",
